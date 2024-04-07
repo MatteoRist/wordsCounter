@@ -1,17 +1,24 @@
 ## How to run the app (locally)
 
-1) Install [Node](https://lodejs.org/en/download/current/) on your machine
-2) open a terminal and move to this directory
-3) run "npm install" to install all the dependencies
-4) run "npm start" to lunch the application locally
+1. Install [Node](https://lodejs.org/en/download/current/) on your machine
+2. Install [Git](https://git-scm.com/downloads) on your machine
+3. open a terminal and move where you want to download the source code
+4. run "git clone https://github.com/MatteoRist/wordsCounter.git" to download the source code
+5. move to the generated directory "wordsCounter"
+6. run "npm install" to install all the dependencies
+7. run "npm start" to lunch the application locally
 
 ## How to deploy the app
 
-1) set up a web server
-2) Install [Node](https://lodejs.org/en/download/current/) on your machine
-3) open a terminal and move to this directory
-4) run "npm run build" to build the application
-5) move the content of the generated "build" directory on your "www" directory.
+1. set up a web server
+2. Install [Node](https://lodejs.org/en/download/current/) on your machine
+3. Install [Git](https://git-scm.com/downloads) on your machine
+4. open a terminal and move where you want to download the source code
+5. run "git clone https://github.com/MatteoRist/wordsCounter.git" to download the source code
+6. move to the generated directory "wordsCounter"
+7. run "npm install" to install all the dependencies
+8. run "npm run build" to build the application
+9. copy the content of the generated "build" directory on your web server in your "www" directory.
 
 ## Getting Started with Create React App
 
