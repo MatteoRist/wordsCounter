@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+## How to run the app (locally)
+
+1) Install [Node](https://lodejs.org/en/download/current/) on your machine
+2) open a terminal and move to this directory
+3) run "npm install" to install all the dependencies
+4) run "npm start" to lunch the application locally
+
+## How to deploy the app
+
+1) set up a web server
+2) Install [Node](https://lodejs.org/en/download/current/) on your machine
+3) open a terminal and move to this directory
+4) run "npm run build" to build the application
+5) move the content of the generated "build" directory on your "www" directory.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
